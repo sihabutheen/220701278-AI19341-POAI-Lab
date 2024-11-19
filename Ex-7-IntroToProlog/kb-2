@@ -1,0 +1,5 @@
+happy(yolanda).
+listens2music(mia).
+Listens2music(yolanda):-happy(yolanda).
+playsAirGuitar(mia):-listens2music(mia).
+playsAirGuitar(Yolanda):-listens2music(yolanda).

@@ -1,0 +1,9 @@
+woman(mia).
+woman(jody).
+woman(yolanda).
+playsAirGuitar(jody).
+party.
+Query 1: ?-woman(mia).
+Query 2: ?-playsAirGuitar(mia).
+Query 3: ?-party.
+Query 4: ?-concert.
